@@ -10,3 +10,7 @@ Students from the University of Education Winneba
 ## Project Duration
 
 Yet to be determined
+
+## Local Readme
+
+1. Open index file in your browser
